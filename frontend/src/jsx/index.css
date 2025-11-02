@@ -1,0 +1,31 @@
+/* Genel stiller - Discord koyu teması */
+:root {
+  --bg: #0f172a;
+  --card: #1e293b;
+  --primary: #00c2ff;
+  --text: #ffffff;
+  --muted: #94a3b8;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.6;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
