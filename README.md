@@ -16,4 +16,6 @@ Serverless
  # ADMİN DASHBOARD
 
  aynı sizin Düpas admin paneli gibi uploud kısmı olucak kategori seçicem isim eklicem rarı yüklücem sonra uploud edcem sen yüklenenler kısmı olucak en son yüklenen rarlar olucak member kısmı olsun kayıt olan üyelerin e postası ve tokenı gözükcek sonra static kısmı olsun istaistikler orda gözüksün toplam kayıtlar falan
- 
+
+ # LOGO - İSİM
+ DAHA BİŞEY DÜŞÜNMEDİM AYNI İSİMİDE BERABER FİKİR ALIŞ VERİŞİ YAĞABİLİRİZ
